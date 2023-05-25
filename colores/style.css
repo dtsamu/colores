@@ -1,0 +1,46 @@
+.cuadro{
+    background-color: blue;
+    color: white;
+    padding: 35px;
+    text-align: center;
+    width: 350px;
+    border-radius: 15px;
+
+
+}
+.cuadro2{
+    background-color: green;
+    color: white;
+    padding: 35px;
+    text-align: center;
+    width: 350px;
+    border-radius: 15px;
+}
+.principal{
+    display: flex;
+}
+
+.cuadro3{
+    background-color: orangered;
+    color: white;
+    padding: 35px;
+    text-align: center;
+    width: 350px;
+    border-radius: 15px;
+}
+.cuadro4{
+    background-color: red;
+    color: white;
+    padding: 35px;
+    text-align: center;
+    width: 350px;
+    border-radius: 15px;
+}
+.cuadro5{
+    background-color: blueviolet;
+    color: white;
+    padding: 35px;
+    text-align: center;
+    width: 350px;
+    border-radius: 15px;
+}
